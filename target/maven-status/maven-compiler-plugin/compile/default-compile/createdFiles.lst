@@ -1,0 +1,6 @@
+com\ayesa\CustomXmlRulesDefinition.class
+com\ayesa\CustomRulesDefinition.class
+com\ayesa\CustomRulesCheckRegistrar.class
+org\sonar\samples\xml\DeprecatedNamespaceInXsdRule.class
+com\ayesa\CustomRulesPlugin.class
+org\sonar\samples\java\NoFileInstantiationRule.class

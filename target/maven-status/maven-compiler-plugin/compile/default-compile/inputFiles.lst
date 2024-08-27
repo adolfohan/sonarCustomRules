@@ -1,0 +1,6 @@
+C:\sonar-custom-rules\sonarqube-custom-rules\src\main\java\com\ayesa\CustomRulesDefinition.java
+C:\sonar-custom-rules\sonarqube-custom-rules\src\main\java\com\ayesa\CustomXmlRulesDefinition.java
+C:\sonar-custom-rules\sonarqube-custom-rules\src\main\java\com\ayesa\CustomRulesCheckRegistrar.java
+C:\sonar-custom-rules\sonarqube-custom-rules\src\main\java\com\ayesa\CustomRulesPlugin.java
+C:\sonar-custom-rules\sonarqube-custom-rules\src\main\java\org\sonar\samples\java\NoFileInstantiationRule.java
+C:\sonar-custom-rules\sonarqube-custom-rules\src\main\java\org\sonar\samples\xml\DeprecatedNamespaceInXsdRule.java
